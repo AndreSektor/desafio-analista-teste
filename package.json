@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "test": "npx cypress run --env configFile=develop --spec \"cypress/integration/saraiva.feature\""
+    },
+    "cypress-cucumber-preprocessor": {
+        "step_definitions": "cypress/support/steps"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "cypress": "^5.2.0",
+        "cypress-cucumber-preprocessor": "^2.5.5",
+        "faker-br": "^0.2.7"
+    }
+}
