@@ -1,6 +1,6 @@
 ## Como rodar automação
 
-* Rodar o seguinte comando na pasta case-QA para instalar uma lib do node que gera massa de dados + o CYPRESS: 
+* Rodar o seguinte comando na pasta desafio-analista-teste para instalar uma lib do node que gera massa de dados + o CYPRESS 5.2: 
 npm install 
 
 * Apos rodar o comando acima usar o comando abaixo para abrir o cypress: 
